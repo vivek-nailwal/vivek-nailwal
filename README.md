@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Vivek Nailwal, Welcome to my Portfolio 👋
 
-<!--
-**vivek-nailwal/vivek-nailwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Market Research
 
-Here are some ideas to get you started:
+I work with data to uncover insights, analyze performance, and support data-driven decisions.  
+My focus areas include **data analysis, SQL querying, exploratory data analysis (EDA), and analytics-driven business insights**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I Work On
+- Exploratory Data Analysis (EDA)
+- Data cleaning & preprocessing
+- Data analysis and reporting using Python and SQL
+- KPI tracking and performance analysis
+- Business and marketing analytics
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Analysis**
+- Python (Pandas, NumPy)
+- SQL
+
+**Visualization**
+- Matplotlib
+- Seaborn
+
+**Databases & Tools**
+- Google BigQuery
+- MySQL
+- Google Analytics
+- Google Search Console
+- Google Colab
+- SEMRush(Market Research Tool)
+
+---
+
+## 📂 Featured Work
+I use GitHub to document hands-on projects related to:
+- Python-based data analysis
+- SQL performance analysis
+- Real-world datasets and business problems
+- Data visualization and insights
+
+📌 Projects are organized with:
+- Clean datasets
+- Reproducible analysis
+- Clear READMEs explaining insights
+
+---
+
+## 📂 Featured Projects
+⭐ Check out my data projects below:
+
+- **Netflix Content Analysis (Exploratory Data Analysis)**  
+  A project using Python to explore Netflix dataset and discover patterns.
+
+*(More projects coming soon!)*
+
+---
+
+## 🌱 Currently Improving
+- Advanced SQL queries
+- Statistical thinking for analysis
+- Better data storytelling through visualizations
+
+---
+
+## 📫 Connect
+- LinkedIn: *https://www.linkedin.com/in/viveknailwal/*
+- GitHub: You’re already here 🙂
