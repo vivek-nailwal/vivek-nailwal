@@ -53,7 +53,8 @@ I use GitHub to document hands-on projects related to:
 ## 📂 Featured Projects
 ⭐ Check out my data projects below:
 
-- **Netflix Content Analysis (Exploratory Data Analysis)**  
+- [**Netflix Content Analysis (Exploratory Data Analysis)**](https://github.com/vivek-nailwal/netflix-analysis)
+
   A project using Python to explore Netflix dataset and discover patterns.
 
 *(More projects coming soon!)*
