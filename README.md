@@ -55,7 +55,7 @@ I use GitHub to document hands-on projects related to:
 
 - [**Netflix Content Analysis (Exploratory Data Analysis)**](https://github.com/vivek-nailwal/netflix-analysis)
 
-  A project using Python to explore Netflix dataset and discover patterns.
+  A project using Python, Numpy, MatplotLib, Seaborn, and Google Search to explore Netflix dataset and discover patterns.
 
 *(More projects coming soon!)*
 
