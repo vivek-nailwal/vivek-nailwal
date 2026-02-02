@@ -59,7 +59,7 @@ I use GitHub to document hands-on projects related to:
 
 - [**Target: Data Analysis**](https://github.com/vivek-nailwal/target-sales-trends)
 
- Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil.
+  Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil.
 
 ---
 
