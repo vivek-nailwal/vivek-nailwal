@@ -66,7 +66,6 @@ I use GitHub to document hands-on projects related to:
 ## 🌱 Currently Improving
 - Machine Learning and Neural Networks
 - Supervised Algorithms
-- Better data storytelling through visualizations
 - Unsupervised and RecSys
 - Natural Langugae Processing
 - MLOps and Computer Vision
