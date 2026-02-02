@@ -57,7 +57,9 @@ I use GitHub to document hands-on projects related to:
 
   A project using Python, Numpy, MatplotLib, Seaborn, and Google Search to explore Netflix dataset and discover patterns.
 
-*(More projects coming soon!)*
+- [**Target: Data Analysis**](https://github.com/vivek-nailwal/target-sales-trends)
+
+ Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil.
 
 ---
 
