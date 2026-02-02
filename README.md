@@ -74,5 +74,6 @@ I use GitHub to document hands-on projects related to:
 
 ## 📫 Connect
 - LinkedIn: *https://www.linkedin.com/in/viveknailwal/*
-- https://www.scaler.com/academy/profile
+- Scaler: https://www.scaler.com/academy/profile
+- HackerRank: https://www.hackerrank.com/profile/toviveknailwal
 - GitHub: You’re already here 🙂
