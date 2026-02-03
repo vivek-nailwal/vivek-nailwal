@@ -61,6 +61,10 @@ I use GitHub to document hands-on projects related to:
 
   Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil.
 
+- [**HCLSoftware: Data Analysis and Market Research**](https://github.com/vivek-nailwal/hcl-data-analysis)
+
+  A data analytics project leveraging search and market data to analyze user behavior, engagement, and competitive positioning.
+
 ---
 
 ## 🌱 Currently Improving
