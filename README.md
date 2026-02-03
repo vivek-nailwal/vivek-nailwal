@@ -59,11 +59,11 @@ I use GitHub to document hands-on projects related to:
 
 - [**Target: Data Analysis**](https://github.com/vivek-nailwal/target-sales-trends)
 
-  Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil.
+  Exploratory data analysis of Brazil’s e-commerce market using SQL, BigQuery, and Google Search data.
 
 - [**HCLSoftware: Data Analysis and Market Research**](https://github.com/vivek-nailwal/hcl-data-analysis)
 
-  A data analytics project leveraging search and market data to analyze user behavior, engagement, and competitive positioning.
+  Data analytics project analyzing user behavior, engagement, and competitive positioning using SQL, BigQuery, and search & market data.
 
 ---
 
