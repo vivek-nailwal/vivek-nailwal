@@ -25,6 +25,7 @@ My focus areas include **data analysis, SQL querying, exploratory data analysis 
 **Visualization**
 - Matplotlib
 - Seaborn
+- Tableau
 
 **Databases & Tools**
 - Google BigQuery
