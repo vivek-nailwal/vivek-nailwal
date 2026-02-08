@@ -55,16 +55,10 @@ I use GitHub to document hands-on projects related to:
 ⭐ Check out my data projects below:
 
 - [**Netflix Content Analysis (Exploratory Data Analysis)**](https://github.com/vivek-nailwal/netflix-analysis)
+  A project using Python, Numpy, Pandas, Matplotlib, Seaborn and Google Search Engine to explore Netflix dataset and discover patterns.
 
-### 🎬 Netflix Data Visualization Dashboard (Tableau)
-
-[![Netflix Tableau Dashboard Preview](https://raw.githubusercontent.com/vivek-nailwal/netflix-tableau-dashboard/main/images/dashboard_preview.png)]
-(https://public.tableau.com/app/profile/vivek.nailwal/viz/NetflixContentAnalysis_17705692714560/Dashboard1?publish=yes)
-
-- 📊 Interactive Netflix content analysis
-- 🛠 Tableau | Data Visualization
-
-🔗 Repo: https://github.com/vivek-nailwal/netflix-tableau-dashboard
+- [**Netflix Tableau Dashboard: Data Visualization & Insights**](https://public.tableau.com/app/profile/vivek.nailwal/viz/NetflixContentAnalysis_17705692714560/Dashboard1?publish=yes)  
+  Interactive Tableau dashboard analyzing Netflix content trends, genres, release patterns, and market distribution using structured dataset insights.
 
 - [**Target: Data Analysis**](https://github.com/vivek-nailwal/target-sales-trends)
 
