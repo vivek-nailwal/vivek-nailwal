@@ -61,11 +61,9 @@ I use GitHub to document hands-on projects related to:
   Interactive Tableau dashboard analyzing Netflix content trends, genres, release patterns, and market distribution using structured dataset insights.
 
 - [**Target: Data Analysis**](https://github.com/vivek-nailwal/target-sales-trends)
-
   Exploratory data analysis of Brazil’s e-commerce market using SQL, BigQuery, and Google Search data.
 
 - [**HCLSoftware: Data Analysis and Market Research**](https://github.com/vivek-nailwal/hcl-data-analysis)
-
   Data analytics project analyzing user behavior, engagement, and competitive positioning using SQL, BigQuery, and search & market data.
 
 ---
