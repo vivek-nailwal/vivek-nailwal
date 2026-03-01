@@ -2,8 +2,7 @@
 
 ## 📊 Data Analyst | Market Research
 
-I work with data to uncover insights, analyze performance, and support data-driven decisions.  
-My focus areas include **data analysis, SQL querying, exploratory data analysis (EDA), and analytics-driven business insights**.
+I leverage data to uncover actionable insights, analyze performance patterns, and support strategic business decisions. My core expertise includes SQL, exploratory data analysis (EDA), probability and statistical analysis, correlation modeling, and customer segmentation. I specialize in identifying key revenue drivers and translating complex datasets into data-driven strategies that enhance product positioning and business growth.
 
 ---
 
