@@ -1,105 +1,64 @@
-# Hi, I'm Vivek Nailwal, Welcome to my Portfolio 👋
+# Hi, I'm Vivek Nailwal 👋
 
-## 📊 Data Analyst | Market Research
-
-## 👋 About Me
+## 📊 Data Analyst | Aspiring Data Scientist  
 
 I leverage data to uncover actionable insights, analyze performance patterns, and support strategic business decisions. My expertise includes SQL querying, exploratory data analysis (EDA), probability and statistical analysis, correlation modeling, and customer segmentation.
 
 I specialize in identifying key revenue drivers, evaluating product performance using behavioral analytics, and translating complex datasets into clear, data-driven strategies that improve product positioning and business growth.
 
-### 🛠 Core Skills
+---
+
+## 🚀 Core Skills
+
 - SQL & Data Querying  
 - Exploratory Data Analysis (EDA)  
 - Probability & Statistical Analysis  
 - Correlation & Driver Analysis  
 - Customer Segmentation  
-- Data Visualization (Matplotlib, Seaborn)  
+- Data Visualization (Matplotlib, Seaborn, Tableau)  
+- Python (Pandas, NumPy)  
 - Business Insight Generation  
 
-📊 Passionate about turning data into measurable business impact.
+---
+
+## 📂 Featured Project
+
+### 📊 Aerofit Customer Behavior & Product Analytics
+Applied EDA, probability, and statistical analysis to identify key behavioral drivers influencing product usage and premium adoption. Delivered revenue-focused recommendations using correlation heatmaps and segmentation techniques.
+
+🔗 [View Project Repository](https://github.com/your-username/Aerofit-Customer-Behavior-Analytics)
 
 ---
 
-## 🔍 What I Work On
-- Exploratory Data Analysis (EDA)
-- Data cleaning & preprocessing
-- Data analysis and reporting using Python and SQL
-- KPI tracking and performance analysis
-- Business and marketing analytics
+## 📈 What I Bring
+
+- Strong analytical thinking with business mindset  
+- Ability to convert raw data into strategic recommendations  
+- Experience handling real-world digital marketing and performance datasets  
+- Focus on ROI-driven analysis and revenue optimization  
 
 ---
 
-## 🛠 Tech Stack
+## 🏆 Currently Learning
 
-**Languages & Analysis**
-- Python (Pandas, NumPy)
-- SQL
-
-**Visualization**
-- Matplotlib
-- Seaborn
-- Tableau
-
-**Databases & Tools**
-- Google BigQuery
-- MySQL
-- Google Analytics
-- Google Search Console
-- Google Colab
-- SEMRush(Market Research Tool)
+- Machine Learning  
+- Predictive Modeling  
+- Advanced Statistical Techniques  
+- Dashboard Development (Power BI / Tableau)
 
 ---
 
-## 📂 Featured Work
-I use GitHub to document hands-on projects related to:
-- Python-based data analysis
-- SQL performance analysis
-- Real-world datasets and business problems
-- Data visualization and insights
+## 📬 Connect With Me
 
-📌 Projects are organized with:
-- Clean datasets
-- Reproducible analysis
-- Clear READMEs explaining insights
+- 💼 LinkedIn: (Add your LinkedIn link)
+- 📧 Email: (Add your professional email)
 
 ---
 
-## 📂 Featured Projects
-⭐ Check out my data projects below:
+## 📊 GitHub Stats
 
-- [**Netflix Content Analysis (Exploratory Data Analysis)**](https://github.com/vivek-nailwal/netflix-analysis)
-
-  A project using Python, Numpy, Pandas, Matplotlib, Seaborn and Google Search Engine to explore Netflix dataset and discover patterns.
-
-- [**Netflix Tableau Dashboard: Data Visualization & Insights**](https://public.tableau.com/app/profile/vivek.nailwal/viz/NetflixContentAnalysis_17705692714560/Dashboard1?publish=yes)  
-
-  Interactive Tableau dashboard analyzing Netflix content trends, genres, release patterns, and market distribution using structured dataset insights.
-
-- [**Target: Data Analysis**](https://github.com/vivek-nailwal/target-sales-trends)
-
-  Exploratory data analysis of Brazil’s e-commerce market using SQL, BigQuery, and Google Search data.
-
-- [**Aerofit: Descriptive Statistics & Probability**](https://github.com/vivek-nailwal/Aerofit-Statistical-Analysis)
-
-  Leveraged statistical analysis and behavioral segmentation to identify key drivers impacting product usage and revenue growth.
-
-- [**HCLSoftware: Data Analysis and Market Research**](https://github.com/vivek-nailwal/hcl-data-analysis)
-
-  Data analytics project analyzing user behavior, engagement, and competitive positioning using SQL, BigQuery, and search & market data.
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
 ---
 
-## 🌱 Currently Improving
-- Machine Learning and Neural Networks
-- Supervised Algorithms
-- Unsupervised and RecSys
-- Natural Langugae Processing
-- MLOps and Computer Vision
----
-
-## 📫 Connect
-- LinkedIn: *https://www.linkedin.com/in/viveknailwal/*
-- Scaler: https://www.scaler.com/academy/profile
-- HackerRank: https://www.hackerrank.com/profile/toviveknailwal
-- GitHub: You’re already here 🙂
+⭐ Passionate about transforming data into measurable business impact.
