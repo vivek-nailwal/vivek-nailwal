@@ -3,7 +3,9 @@
 
 Welcome to my Portfolio!
 
-I work with data to uncover actionable insights, analyze performance trends, and support data-driven decision-making. My expertise lies in exploratory data analysis (EDA), SQL querying, probability & statistical analysis, and translating business problems into analytical solutions.
+I leverage data to uncover actionable insights, analyze performance trends, and drive data-informed decision-making. My expertise spans exploratory data analysis (EDA), SQL querying, probability and statistical analysis, and business performance evaluation.
+
+I focus on identifying key drivers, measuring KPIs, and translating complex datasets into structured analytical solutions that support product strategy, revenue optimization, and operational efficiency.
 
 ---
 
