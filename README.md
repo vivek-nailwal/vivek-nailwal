@@ -66,6 +66,10 @@ I use GitHub to document hands-on projects related to:
 
   Exploratory data analysis of Brazil’s e-commerce market using SQL, BigQuery, and Google Search data.
 
+- [**Aerofit: Descriptive Statistics & Probability**](https://github.com/vivek-nailwal/aerofit)
+
+  Leveraged statistical analysis and behavioral segmentation to identify key drivers impacting product usage and revenue growth.
+
 - [**HCLSoftware: Data Analysis and Market Research**](https://github.com/vivek-nailwal/hcl-data-analysis)
 
   Data analytics project analyzing user behavior, engagement, and competitive positioning using SQL, BigQuery, and search & market data.
