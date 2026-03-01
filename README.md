@@ -2,7 +2,22 @@
 
 ## 📊 Data Analyst | Market Research
 
-I leverage data to uncover actionable insights, analyze performance patterns, and support strategic business decisions. My core expertise includes SQL, exploratory data analysis (EDA), probability and statistical analysis, correlation modeling, and customer segmentation. I specialize in identifying key revenue drivers and translating complex datasets into data-driven strategies that enhance product positioning and business growth.
+## 👋 About Me
+
+I leverage data to uncover actionable insights, analyze performance patterns, and support strategic business decisions. My expertise includes SQL querying, exploratory data analysis (EDA), probability and statistical analysis, correlation modeling, and customer segmentation.
+
+I specialize in identifying key revenue drivers, evaluating product performance using behavioral analytics, and translating complex datasets into clear, data-driven strategies that improve product positioning and business growth.
+
+### 🛠 Core Skills
+- SQL & Data Querying  
+- Exploratory Data Analysis (EDA)  
+- Probability & Statistical Analysis  
+- Correlation & Driver Analysis  
+- Customer Segmentation  
+- Data Visualization (Matplotlib, Seaborn)  
+- Business Insight Generation  
+
+📊 Passionate about turning data into measurable business impact.
 
 ---
 
