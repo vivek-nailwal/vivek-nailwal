@@ -44,11 +44,11 @@ I work with data to uncover actionable insights, analyze performance trends, and
 
 | Project | Tools Used | Description |
 |----------|------------|------------|
-| **Netflix Content Analysis (EDA)** | Python, Pandas, NumPy, Matplotlib, Seaborn | Exploratory analysis of Netflix dataset to uncover content trends, genre distribution, release patterns, and data-driven insights. |
-| **Netflix Tableau Dashboard** | Tableau | Interactive dashboard visualizing content trends, genres, and global distribution for strategic content insights. |
-| **Target: Brazil E-commerce Analysis** | SQL, BigQuery | End-to-end SQL analysis of Brazil’s e-commerce dataset to uncover order trends, customer behavior, and revenue insights. |
-| **Aerofit: Descriptive Statistics & Probability** | Python, Statistics, Correlation Analysis | Applied statistical analysis and probability techniques to identify key behavioral drivers impacting product usage and premium adoption. |
-| **HCLSoftware: Data Analysis & Market Research** | SQL, BigQuery, Search Data | Market research project analyzing user engagement, search trends, and competitive positioning using structured data insights. |
+| **Aerofit: Descriptive Statistics & Probability** | Python, Pandas, NumPy, Statistical Analysis | Applied probability, correlation analysis, and behavioral segmentation to identify key drivers impacting product usage and premium adoption. Delivered revenue-focused strategic recommendations. |
+| **Netflix Content Analysis (EDA)** | Python, Pandas, NumPy, Matplotlib, Seaborn | Conducted exploratory data analysis on Netflix dataset to uncover genre trends, content distribution patterns, and release insights. |
+| **Netflix Tableau Dashboard** | Tableau | Built an interactive dashboard visualizing Netflix content trends, genre distribution, and market insights. |
+| **Target: Brazil E-commerce Analysis** | SQL, BigQuery | Performed SQL-based analysis to evaluate customer behavior, order patterns, and revenue performance in Brazil’s e-commerce market. |
+| **HCLSoftware: Data Analysis & Market Research** | SQL, BigQuery, Search Data | Analyzed user engagement, search trends, and competitive positioning using structured market research datasets. |
 
 ---
 
