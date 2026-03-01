@@ -1,5 +1,5 @@
 # Hi, I'm Vivek Nailwal 👋  
-### 📊 Data Analyst | Market Research Enthusiast  
+### 📊 Data Analyst | Business Intelligence & Analytics 
 
 Welcome to my Portfolio!
 
