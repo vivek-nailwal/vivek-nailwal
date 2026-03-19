@@ -46,12 +46,11 @@ I focus on identifying key drivers, measuring KPIs, and translating complex data
 
 | Project | Tools Used | Description |
 |----------|------------|------------|
-| **Aerofit: Descriptive Statistics & Probability** | Python, Pandas, NumPy, Statistical Analysis | Applied probability, correlation analysis, and behavioral segmentation to identify key drivers impacting product usage and premium adoption. Delivered revenue-focused strategic recommendations. |
-| **Netflix Content Analysis (EDA)** | Python, Pandas, NumPy, Matplotlib, Seaborn | Conducted exploratory data analysis on Netflix dataset to uncover genre trends, content distribution patterns, and release insights. |
-| **Netflix Tableau Dashboard** | Tableau | Built an interactive dashboard visualizing Netflix content trends, genre distribution, and market insights. |
-| **Target: Brazil E-commerce Analysis** | SQL, BigQuery | Performed SQL-based analysis to evaluate customer behavior, order patterns, and revenue performance in Brazil’s e-commerce market. |
-| **HCLSoftware: Data Analysis & Market Research** | SQL, BigQuery, Search Data | Analyzed user engagement, search trends, and competitive positioning using structured market research datasets. |
-
+| [**Aerofit: Descriptive Statistics & Probability**](https://github.com/vivek-nailwal/aerofit-analysis) | Python, Pandas, NumPy, Statistical Analysis | Applied probability, correlation analysis, and behavioral segmentation to identify key drivers impacting product usage and premium adoption. Delivered revenue-focused strategic recommendations. |
+| [**Netflix Content Analysis (EDA)**](https://github.com/vivek-nailwal/netflix-analysis) | Python, Pandas, NumPy, Matplotlib, Seaborn | Conducted exploratory data analysis on Netflix dataset to uncover genre trends, content distribution patterns, and release insights. |
+| [**Netflix Tableau Dashboard**](https://github.com/vivek-nailwal/netflix-tableau-dashboard) | Tableau | Built an interactive dashboard visualizing Netflix content trends, genre distribution, and market insights. |
+| [**Target: Brazil E-commerce Analysis**](https://github.com/vivek-nailwal/target-performance-analysis) | SQL, BigQuery | Performed SQL-based analysis to evaluate customer behavior, order patterns, and revenue performance in Brazil’s e-commerce market. |
+| [**HCLSoftware: Data Analysis & Market Research**](https://github.com/vivek-nailwal/hcl-data-analysis) | SQL, BigQuery, Search Data | Analyzed user engagement, search trends, and competitive positioning using structured market research datasets. |
 ---
 
 ## 📌 Project Standards
