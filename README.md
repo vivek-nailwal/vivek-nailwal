@@ -1,86 +1,83 @@
 # Hi, I'm Vivek Nailwal 👋  
-## 🚀 **📊 Data Analyst | Business Intelligence & Analytics**
+## 📊 Data Analyst | Marketing & Business Analytics | SQL • Python • Tableau  
 
-Welcome to my Portfolio!
+I solve real-world business problems using data.
 
-I leverage data to uncover actionable insights, analyze performance trends, and drive data-informed decision-making. My expertise spans exploratory data analysis (EDA), SQL querying, probability and statistical analysis, and business performance evaluation.
-
-I focus on identifying key drivers, measuring KPIs, and translating complex datasets into structured analytical solutions that support product strategy, revenue optimization, and operational efficiency.
+With 7+ years in Digital Marketing, I specialize in analyzing user behavior, validating data accuracy, and uncovering insights that drive business decisions.
 
 ---
 
-## 🔍 What I Work On
+## 💼 Real-World Business Impact
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Data Analysis using Python & SQL
-- KPI Tracking & Performance Measurement
-- Business & Marketing Analytics
-- Statistical & Probability-Based Analysis
-- Behavioral Segmentation & Driver Analysis
+### 📉 E-commerce Conversion Drop Investigation
+- Identified false drop in conversions caused by **tracking/tagging error**, not user behavior  
+- Performed funnel, behavioral, and geographic analysis  
+- Prevented incorrect business decisions by validating data accuracy  
+
+👉 **Key Insight:** Always validate data before solving the problem  
+
+🔗 [View Full Case Study](https://github.com/vivek-nailwal/ecommerce-conversion-drop-analysis)
+
+---
+
+## 🚀 What I Bring
+
+- Data-driven problem solving  
+- KPI & funnel analysis  
+- Business + marketing analytics  
+- Data validation & debugging mindset  
+- Translating data into actionable insights  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🐍 Languages & Analysis
-- Python (Pandas, NumPy)
-- SQL
+**Languages & Analysis**  
+Python (Pandas, NumPy), SQL  
 
-### 📊 Data Visualization
-- Matplotlib
-- Seaborn
-- Tableau
+**Visualization**  
+Tableau, Matplotlib, Seaborn  
 
-### 🗄 Databases & Tools
-- Google BigQuery
-- MySQL
-- Google Analytics
-- Google Search Console
-- Google Colab
-- SEMRush (Market Research Tool)
+**Tools & Platforms**  
+Google Analytics, BigQuery, MySQL, Search Console, SEMRush  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (Technical Work)
 
-| Project | Tools Used | Description |
-|----------|------------|------------|
-| [**Aerofit: Descriptive Statistics & Probability**](https://github.com/vivek-nailwal/Aerofit-Statistical-Analysis) | Python, Pandas, NumPy, Statistical Analysis | Applied probability, correlation analysis, and behavioral segmentation to identify key drivers impacting product usage and premium adoption. Delivered revenue-focused strategic recommendations. |
-| [**Netflix Content Analysis (EDA)**](https://github.com/vivek-nailwal/netflix-analysis) | Python, Pandas, NumPy, Matplotlib, Seaborn | Conducted exploratory data analysis on Netflix dataset to uncover genre trends, content distribution patterns, and release insights. |
-| [**Netflix Tableau Dashboard**](https://github.com/vivek-nailwal/netflix-tableau-dashboard) | Tableau | Built an interactive dashboard visualizing Netflix content trends, genre distribution, and market insights. |
-| [**Target: Brazil E-commerce Analysis**](https://github.com/vivek-nailwal/target-sales-trends) | SQL, BigQuery | Performed SQL-based analysis to evaluate customer behavior, order patterns, and revenue performance in Brazil’s e-commerce market. |
-| [**HCLSoftware: Data Analysis & Market Research**](https://github.com/vivek-nailwal/hcl-data-analysis) | SQL, BigQuery, Search Data | Analyzed user engagement, search trends, and competitive positioning using structured market research datasets. |
----
-
-## 📌 Project Standards
-
-All projects are structured with:
-
-- Clean and validated datasets  
-- Reproducible analysis workflows  
-- Clear documentation and business insights  
-- Data-driven recommendations  
+| Project | Tools | Key Outcome |
+|--------|------|------------|
+| [Aerofit Analysis](https://github.com/vivek-nailwal/Aerofit-Statistical-Analysis) | Python | Identified customer segments & revenue drivers |
+| [Netflix EDA](https://github.com/vivek-nailwal/netflix-analysis) | Python | Discovered content trends & distribution insights |
+| [Netflix Dashboard](https://github.com/vivek-nailwal/netflix-tableau-dashboard) | Tableau | Built interactive content analytics dashboard |
+| [Target E-commerce Analysis](https://github.com/vivek-nailwal/target-sales-trends) | SQL | Analyzed customer behavior & revenue patterns |
+| [HCL Market Analysis](https://github.com/vivek-nailwal/hcl-data-analysis) | SQL | Derived insights from search & engagement data |
 
 ---
 
-## 🌱 Currently Improving
+## 📊 How I Think as an Analyst
 
-- Machine Learning & Neural Networks  
-- Supervised & Unsupervised Algorithms  
+- Start with business problem, not data  
+- Validate data before analysis  
+- Break problems into structured steps  
+- Focus on insights, not just outputs  
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning  
 - Recommendation Systems  
-- Natural Language Processing (NLP)  
-- MLOps & Computer Vision  
+- NLP  
+- Advanced SQL & Data Pipelines  
 
 ---
 
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/viveknailwal/  
-- 🎓 Scaler: https://www.scaler.com/academy/profile  
-- 💻 HackerRank: https://www.hackerrank.com/profile/toviveknailwal  
-- 📌 GitHub: You’re already here 🙂  
+- 💻 GitHub: You’re here 🙂  
 
 ---
 
-⭐ Passionate about turning raw data into measurable business impact.
+⭐ Turning messy data into meaningful business insights
