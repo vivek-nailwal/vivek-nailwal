@@ -1,5 +1,6 @@
 # Hi, I'm Vivek Nailwal 👋  
 ## 📊 Data Analyst | Marketing & Business Analytics | SQL • Python • Tableau  
+🔗 LinkedIn: https://www.linkedin.com/in/viveknailwal/
 
 I solve real-world business problems using data.
 
