@@ -48,6 +48,7 @@ Google Analytics, BigQuery, MySQL, Search Console, SEMRush
 
 | Project | Tools | Key Outcome |
 |--------|------|------------|
+| [Walmart Customer Purchase Analysis](https://github.com/vivek-nailwal/walmart-customer-analysis) | Python | Applied CLT, confidence intervals & EDA to analyze customer spending behavior |
 | [Aerofit Analysis](https://github.com/vivek-nailwal/Aerofit-Statistical-Analysis) | Python | Identified customer segments & revenue drivers |
 | [Netflix EDA](https://github.com/vivek-nailwal/netflix-analysis) | Python | Discovered content trends & distribution insights |
 | [Netflix Dashboard](https://github.com/vivek-nailwal/netflix-tableau-dashboard) | Tableau | Built interactive content analytics dashboard |
