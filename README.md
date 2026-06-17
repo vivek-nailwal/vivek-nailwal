@@ -4,7 +4,7 @@
 
 I solve real-world business problems using data.
 
-With 7+ years in Digital Marketing, I specialize in analyzing user behavior, validating data accuracy, and uncovering insights that drive business decisions.
+With 7+ years in Data Marketing, I specialize in data analysis and it's behavior, validating data accuracy, and uncovering insights that drive business decisions.
 
 ---
 
